@@ -9,8 +9,7 @@
     "\\src\\assets\\img",
     "\\src\\assets\\lib",
     "\\src\\assets\\lib\\jquery",
-    "\\src\\assets\\lib\\jquery_components"
+    "\\src\\scss"
   ],
-  "SelectedNode": "\\src\\main.ts",
   "PreviewInSolutionExplorer": false
 }
