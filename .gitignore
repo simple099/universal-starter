@@ -1,6 +1,7 @@
 .idea
 .DS_Store
 .vscode
+.vs
 
 package-lock.json
 
