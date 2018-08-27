@@ -2,8 +2,8 @@ import {NgModule, Component} from '@angular/core';
 import {RouterModule} from '@angular/router';
 
 @Component({
-  selector: 'app-lazy-view',
-  template: `<h3>i'm lazy</h3>`
+  selector: 'tender-example',
+  template: `<h3>Tender example module</h3>`
 })
 export class TenderExampleComponent {}
 
