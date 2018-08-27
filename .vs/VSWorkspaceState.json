@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\store",
+    "\\src\\assets",
+    "\\src\\assets\\fonts",
+    "\\src\\assets\\img",
+    "\\src\\assets\\lib",
+    "\\src\\assets\\lib\\jquery",
+    "\\src\\assets\\lib\\jquery_components"
+  ],
+  "SelectedNode": "\\src\\main.ts",
+  "PreviewInSolutionExplorer": false
+}
